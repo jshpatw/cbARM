@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "personal library pcb") (type "KiCad") (uri "C:/downls/robot arm prodj/personal library pcb.pretty") (options "") (descr ""))
+)
