@@ -48,6 +48,10 @@ All STL files required for 3D printing the chassis and planetary gearboxes are a
 * Hardware: Ensure all M3 heat-set inserts are installed prior to joining arm segments. 
 * Bearings: Ensure 10x5x4mm bearings are seated with light pressure to avoid binding within 3D-printed pockets.
 * Remember to practice safety when soldering parts and make sure to get extras and expect electronic defects.
+
+<img width="1270" height="746" alt="image" src="https://github.com/user-attachments/assets/acbcc022-6e69-42e4-b61c-722ff9506ffd" />
+<img width="1184" height="684" alt="image" src="https://github.com/user-attachments/assets/554ea592-aa8d-4cba-860e-baa402e69c23" />
+Above is are pictures of the final PCB design for the prodject as of now.
 ## Firmware and Control
 
 * Status: Development in progress. 
