@@ -53,6 +53,9 @@ All STL files required for 3D printing the chassis and planetary gearboxes are a
 <img width="1184" height="684" alt="image" src="https://github.com/user-attachments/assets/554ea592-aa8d-4cba-860e-baa402e69c23" />
 Above is are pictures of the final PCB design for the prodject as of now.
 
+<img width="841" height="731" alt="image" src="https://github.com/user-attachments/assets/36f05a64-b429-4f4d-b044-ae5e1f970e56" />
+Above shows how the arm should look like after the 3d printed parts are assembled. (note that wires and electronics arent shown in this picture.
+
 
 ## Firmware and Control
  
