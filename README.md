@@ -5,7 +5,7 @@ A 5-DOF (Degrees of Freedom) robot arm designed for high scalability, low cost, 
 
 ## Project Overview
 
-The cbARM project aims to recreate industry-standard robot arm functionality using affordable, accessible components. By utilizing NEMA 17 motors, 3D-printed planetary gearboxes, and 2020 aluminum extrusions, this project provides a modular, affordable, and highly repairable alternative to commercial robotic systems.
+The cbARM project aims to recreate industry-standard robot arm functionality using affordable, accessible components. By utilizing NEMA 17 motors, 3D-printed planetary gearboxes, a fully 3d printed conical stylle thrust bearing, and 2020 aluminum extrusions, this project provides a modular, affordable, and highly repairable alternative to commercial robotic systems.
 
 ## Target Features
 
