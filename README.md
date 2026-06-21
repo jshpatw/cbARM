@@ -12,6 +12,7 @@ The cbARM project aims to recreate industry-standard robot arm functionality usi
 * 5 Degrees of Freedom for full spatial maneuverability.
 * Accessible build requiring no specialized machining.
 * Modular design utilizing 2020 aluminum extrusions for variable arm lengths.
+* Modular electronics; using female sockets soldered onto the pcb for "hot swapping" and easy electronics replacement.
 * Scalable architecture for easy repair and upgrades.
 
 ## Bill of Materials (BOM)
@@ -51,7 +52,7 @@ All STL files required for 3D printing the chassis and planetary gearboxes are a
 
 <img width="1270" height="746" alt="image" src="https://github.com/user-attachments/assets/acbcc022-6e69-42e4-b61c-722ff9506ffd" />
 <img width="1184" height="684" alt="image" src="https://github.com/user-attachments/assets/554ea592-aa8d-4cba-860e-baa402e69c23" />
-Above is are pictures of the final PCB design for the prodject as of now.
+Above is are pictures of the final PCB design for the prodject as of now. I reccomend using solder on female sockets to achive the electronic modularity. ensure u plug the 24V cables the right way as to not fry the board...
 
 <img width="841" height="731" alt="image" src="https://github.com/user-attachments/assets/36f05a64-b429-4f4d-b044-ae5e1f970e56" />
 Above shows how the arm should look like after the 3d printed parts are assembled. (note that wires and electronics arent shown in this picture.
