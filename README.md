@@ -56,6 +56,7 @@ All STL files required for 3D printing the chassis and planetary gearboxes are a
 Above is are pictures of the final PCB design for the prodject as of now. I reccomend using solder on female sockets to achive the electronic modularity. ensure u plug the 24V cables the right way as to not fry the board...
 
 
+
  The J0 objects mainly feature:
 * Mounting holes for the 2020 extrution
 * A vertical mount for the nema 17 42HS60
@@ -67,6 +68,7 @@ He also has a youtube video in that link, I recommend watching his videos to bet
  The J1 objects feature:
 * A horizontal mount for the nema 17 hs 60 motor
 * A 64:1 planetary gearbox
+* Specialized thick gears to hendle the high torque setup
 * A ring gear with a 2020 extrution mount for torque output
 
 <img width="841" height="731" alt="image" src="https://github.com/user-attachments/assets/36f05a64-b429-4f4d-b044-ae5e1f970e56" />
