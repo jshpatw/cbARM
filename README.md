@@ -60,6 +60,7 @@ Above is are pictures of the final PCB design for the prodject as of now. I recc
 * Mounts for the nema 17 42HS60
 * 16:1 planetary reducers
 * A 160mm 16 pin thrust bearing inspired by Logic [Planets work]([url](https://thangs.com/designer/logicalplanet/3d-model/Lazy%20Susan%20160%20v3.0-1514462))
+
 He also has a youtube video in that link, I recommend watching his videos to better understand the mechanics and how to assemble that specific part.
 
 <img width="841" height="731" alt="image" src="https://github.com/user-attachments/assets/36f05a64-b429-4f4d-b044-ae5e1f970e56" />
