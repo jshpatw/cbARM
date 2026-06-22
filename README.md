@@ -30,6 +30,7 @@ The cbARM project aims to recreate industry-standard robot arm functionality usi
 | Electronics | J12,J13 | 2 | Conn_01x19 | Pin Socket |
 | Electronics | U1,U2 | 2 | 74HC595 | Shift Register |
 | Electronics | Power Supply | 1 | 24V 15A | Main System PSU |
+| Electronics | esp32 WROOM D | 1 | 24V 15A | System Brain |
 
 ### Mechanical
 
@@ -39,13 +40,13 @@ The cbARM project aims to recreate industry-standard robot arm functionality usi
 | Mechanical | Bearings | 100 | MR105ZZ (10x5x4mm) | Steel Shielded |
 | Mechanical | Screws | 100 | M3 x 10mm | Socket Head Cap |
 | Mechanical | Heat-Set Inserts | 100 | M3 Brass Insert | For PETG |
-| Mechanical | Filament | 3kg | PETG 1.75mm | Chassis Material |
+| Mechanical | Filament | 3kg | PETG 1.75mm | Chassis & Gear Material |
 
 ## Assembly and CAD Files
 
 All STL files required for 3D printing the chassis and planetary gearboxes are available in the `/stl` directory of this repository. Refer to the pictures in journal.md portion for more complex parts and to see how I went about making things
 
-* Recommended Material: PETG 3 or more wall loops 20% minimum density 100% for gears and parts holding torque and gyroid pattern for structural rigidity and heat resistance (feel free to use PLA and other settings to test fitments).
+* Recommended Material: PETG; 3 or more wall loops 20% minimum density 100% for gears and parts holding torque and gyroid pattern for structural rigidity and heat resistance (feel free to use PLA and other settings to test fitments).
 * Hardware: Ensure all M3 heat-set inserts are installed prior to joining arm segments. 
 * Bearings: Ensure 10x5x4mm bearings are seated with light pressure to avoid binding within 3D-printed pockets.
 * Remember to practice safety when soldering parts and make sure to get extras and expect electronic defects.
@@ -53,6 +54,13 @@ All STL files required for 3D printing the chassis and planetary gearboxes are a
 <img width="1270" height="746" alt="image" src="https://github.com/user-attachments/assets/acbcc022-6e69-42e4-b61c-722ff9506ffd" />
 <img width="1184" height="684" alt="image" src="https://github.com/user-attachments/assets/554ea592-aa8d-4cba-860e-baa402e69c23" />
 Above is are pictures of the final PCB design for the prodject as of now. I reccomend using solder on female sockets to achive the electronic modularity. ensure u plug the 24V cables the right way as to not fry the board...
+
+# The J0 objects mainly feature:
+* Mounting holes for the 2020 extrution
+* Mounts for the nema 17 42HS60
+* 16:1 planetary reducers
+* A 160mm 16 pin thrust bearing inspired by Logic [Planets work]([url](https://thangs.com/designer/logicalplanet/3d-model/Lazy%20Susan%20160%20v3.0-1514462))
+He also has a youtube video in that link, I recommend watching his videos to better understand the mechanics and how to assemble that specific part.
 
 <img width="841" height="731" alt="image" src="https://github.com/user-attachments/assets/36f05a64-b429-4f4d-b044-ae5e1f970e56" />
 Above shows how the arm should look like after the 3d printed parts are assembled. (note that wires and electronics arent shown in this picture.
