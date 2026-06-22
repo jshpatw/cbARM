@@ -63,7 +63,7 @@ Above is are pictures of the final PCB design for the prodject as of now. I recc
 
 He also has a youtube video in that link, I recommend watching his videos to better understand the mechanics and how to assemble that specific part.
 
-The J1 objects feature:
+ The J1 objects feature:
 * A horizontal mount for the nema 17 hs 60 motor
 * A 64:1 planetary gearbox
 * A ring gear with a 2020 extrution mount for torque output
