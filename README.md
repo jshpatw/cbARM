@@ -55,13 +55,18 @@ All STL files required for 3D printing the chassis and planetary gearboxes are a
 <img width="1184" height="684" alt="image" src="https://github.com/user-attachments/assets/554ea592-aa8d-4cba-860e-baa402e69c23" />
 Above is are pictures of the final PCB design for the prodject as of now. I reccomend using solder on female sockets to achive the electronic modularity. ensure u plug the 24V cables the right way as to not fry the board...
 
-# The J0 objects mainly feature:
+ The J0 objects mainly feature:
 * Mounting holes for the 2020 extrution
-* Mounts for the nema 17 42HS60
+* A vertical mount for the nema 17 42HS60
 * 16:1 planetary reducers
 * A 160mm 16 pin thrust bearing inspired by Logic [Planets work]([url](https://thangs.com/designer/logicalplanet/3d-model/Lazy%20Susan%20160%20v3.0-1514462))
 
 He also has a youtube video in that link, I recommend watching his videos to better understand the mechanics and how to assemble that specific part.
+
+The J1 objects feature:
+* A horizontal mount for the nema 17 hs 60 motor
+* A 64:1 planetary gearbox
+* A ring gear with a 2020 extrution mount for torque output
 
 <img width="841" height="731" alt="image" src="https://github.com/user-attachments/assets/36f05a64-b429-4f4d-b044-ae5e1f970e56" />
 Above shows how the arm should look like after the 3d printed parts are assembled. (note that wires and electronics arent shown in this picture.
