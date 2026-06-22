@@ -55,6 +55,7 @@ All STL files required for 3D printing the chassis and planetary gearboxes are a
 <img width="1184" height="684" alt="image" src="https://github.com/user-attachments/assets/554ea592-aa8d-4cba-860e-baa402e69c23" />
 Above is are pictures of the final PCB design for the prodject as of now. I reccomend using solder on female sockets to achive the electronic modularity. ensure u plug the 24V cables the right way as to not fry the board...
 
+
  The J0 objects mainly feature:
 * Mounting holes for the 2020 extrution
 * A vertical mount for the nema 17 42HS60
