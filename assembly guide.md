@@ -43,5 +43,24 @@ the assembly of theese parts are very simplistic and dont need as complicated in
 * The object "STLs/j0 -the plastic tray- base and center of gravity.stl" acts as the main object for the j0 portion. On all four sides on its base are holes for 2020 aluminium extrutions. Slot the leftover 2020 extrutions from cutting the other parts and make them long enough such that they can handle the shifting weight of the whole arm. (any measurment is good as long as it works as a core target of this prodject is the users controll on how long the arm can be by simply cutting longer extrutions) I recommend atleast 120 mm coming out from all sides though.
 
 * The object "STLs/j0 -wrapper- vertical nema 17 mount.stl" fits right into it using 4 heat set m3 screws. Together they sadwich the nema 17 42hs60 stepper motor it should look like this <img width="1284" height="1712" alt="image" src="https://github.com/user-attachments/assets/ad1de9a6-b581-485f-9bd4-6881f798ce35" />
+
+* On top of the motor mount lies the gearbox its layered kind of like a hamburger:
+  1. STLs/j0 -bottom bun- .stl
+  2. STLs/Jn 1ststage sungear.stl
+  3. 3x STLs/Jn planetgear.stl
+  4. STLs/Jn converter.stl
+  5. STLs/j0 -patty-.stl
+  6. STLs/Jn 2ndstage sungear.stl
+  3. 3x STLs/Jn planetgear.stl
+  4. STLs/Jn converter.stl
+  5. STLs/j0 -top bun-.stl
+ 
+It should look like this but ignore the bottom most part:
+<img width="1284" height="1712" alt="image" src="https://github.com/user-attachments/assets/4f6407ad-7449-437e-982c-4d050f97e045" />
+<img width="1284" height="1712" alt="image" src="https://github.com/user-attachments/assets/47dd1f6e-6d2d-4fd0-be0e-4376236a9afb" />
+<img width="1284" height="1712" alt="image" src="https://github.com/user-attachments/assets/dc1c1d3c-ed22-44c5-878d-7188ae8bdea5" />
+<img width="1292" height="968" alt="image" src="https://github.com/user-attachments/assets/237d2a5e-86f7-41d5-abc7-f491b2203b47" />
+
+
 <img width="757" height="477" alt="image" src="https://github.com/user-attachments/assets/95b1272b-7898-419e-a64f-192376da1e93" />
 
