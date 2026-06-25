@@ -38,3 +38,4 @@ To better understand, please refer to the images below:
 3. **Polarity Confirmation:** Verify the positive and negative connections at the 24V terminal block (J11) to prevent reverse polarity.
 
 ## J0 Parts
+the assembly of theese parts are very simplistic and dont need as complicated instructions the object "STLs/j0 -the plastic tray- base and center of gravity.stl" acts as the main object for the j0 portion. The object "STLs/j0 -wrapper- vertical nema 17 mount.stl" fits right into it using 4 heat set m3 screws. Together they sadwich the nema 17 42hs60 stepper motor it should look like this <img width="1284" height="1712" alt="image" src="https://github.com/user-attachments/assets/ad1de9a6-b581-485f-9bd4-6881f798ce35" />
