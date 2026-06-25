@@ -67,6 +67,6 @@ Refer to this image to better understand the thrust bearing.
 <img width="1200" height="1464" alt="image" src="https://github.com/user-attachments/assets/18e638dc-0bbf-42af-9d54-72e3c307583b" />
 
 
-In the end J0 should look like this alltogether.
+In the end J0 should look like this alltogether. But ignore the gearbox on top of it...
 <img width="757" height="477" alt="image" src="https://github.com/user-attachments/assets/95b1272b-7898-419e-a64f-192376da1e93" />
 
