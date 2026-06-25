@@ -3,6 +3,14 @@
 This guide details the construction of the cbARM control module. 
 
 ## PCB and Electronics
+To better understand, please refer to the images below:
+<img width="1543" height="812" alt="image" src="https://github.com/user-attachments/assets/49428790-350b-4c70-921e-239055744103" />
+<img width="1662" height="884" alt="image" src="https://github.com/user-attachments/assets/d8f369ee-8a52-415f-9717-89770dbdb99f" />
+<img width="1664" height="897" alt="image" src="https://github.com/user-attachments/assets/dd2feeef-a59b-4ce6-a51c-1714a1428c73" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d6d3621f-b2d4-49c4-a686-20f09bbe325f" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/db565db8-2bc4-4dfb-a2ae-ccf1fa266a1a" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/79388c71-88aa-46b3-9d66-fe869959a9c1" />
+
 
 ### Component Orientation and Sockets
 
