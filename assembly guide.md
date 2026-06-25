@@ -64,7 +64,8 @@ It should look like this but ignore the bottom most part:
 * To make the thrust bearing and j0 in general to work, snap fit STLs/Lazy_Susan_160_v3.0/PIN (print 16).stl and STLs/Lazy_Susan_160_v3.0/CARRIER.stl together and put them on top of STLs/j0 -the plastic tray- base and center of gravity.stl. Press fit STLs/j0 key.stl on top of the gearbox and STLs/j0 -the disposable plate- thrust bearing upper portion & j1 base.stl wich then snap fits into STLs/j0 -the plastic tray- base and center of gravity.stl
 
 Refer to this image to better understand the thrust bearing.
-<img width="1200" height="1464" alt="image" src="https://github.com/user-attachments/assets/31686f09-b7ce-48f7-9d17-511f95676804" />
+<img width="1200" height="1464" alt="image" src="https://github.com/user-attachments/assets/18e638dc-0bbf-42af-9d54-72e3c307583b" />
+
 
 In the end J0 should look like this alltogether.
 <img width="757" height="477" alt="image" src="https://github.com/user-attachments/assets/95b1272b-7898-419e-a64f-192376da1e93" />
