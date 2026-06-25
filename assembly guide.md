@@ -43,4 +43,5 @@ the assembly of theese parts are very simplistic and dont need as complicated in
 * The object "STLs/j0 -the plastic tray- base and center of gravity.stl" acts as the main object for the j0 portion. On all four sides on its base are holes for 2020 aluminium extrutions. Slot the leftover 2020 extrutions from cutting the other parts and make them long enough such that they can handle the shifting weight of the whole arm. (any measurment is good as long as it works as a core target of this prodject is the users controll on how long the arm can be by simply cutting longer extrutions) I recommend atleast 120 mm coming out from all sides though.
 
 * The object "STLs/j0 -wrapper- vertical nema 17 mount.stl" fits right into it using 4 heat set m3 screws. Together they sadwich the nema 17 42hs60 stepper motor it should look like this <img width="1284" height="1712" alt="image" src="https://github.com/user-attachments/assets/ad1de9a6-b581-485f-9bd4-6881f798ce35" />
+<img width="757" height="477" alt="image" src="https://github.com/user-attachments/assets/95b1272b-7898-419e-a64f-192376da1e93" />
 
