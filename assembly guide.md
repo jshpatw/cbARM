@@ -70,3 +70,22 @@ Refer to this image to better understand the thrust bearing.
 In the end J0 should look like this alltogether. But ignore the gearbox on top of it...
 <img width="757" height="477" alt="image" src="https://github.com/user-attachments/assets/95b1272b-7898-419e-a64f-192376da1e93" />
 
+## J1 Parts
+J1 lies on top of the "STLs/j0 -the disposable plate- thrust bearing upper portion & j1 base.stl" Its also stacked like a hamburger: 
+1. STLs/j1 -wrapper- nema 17 horizontal mount.stl
+2. STLs/J1 -bottom bun- stationary mount connection.stl
+3. STLs/Jn 1ststage sungear.stl
+4. 3x STLs/Jn planetgear.stl
+5. STLs/Jn converter.stl
+6. STLs/J1 -tomatoes- stationary ring.stl
+7. STLs/Jn  2ndstage sungear.stl
+4. STLs/Jn planetgear.stl
+5. STLs/Jn converter.stl
+6. STLs/j1 -onions- pause print at ~12 mm .stl
+7. STLs/j1 -pepper(1)- sun gear.stl (1cm, thicker gear)
+8. 3x STLs/j1 -salt(3)- planet gears.stl (1cm, thicker gear)
+9. STLs/J1 -onion rings- spinning gear.stl
+10. 3x STLs/j1 -bun flags (3)- lockes gears in place.stl
+
+You will have to pause "STLs/j1 -onions- pause print at ~12 mm .stl" at ~12mm and slot in the 1cm thick gears with thier bearings and then continue the print. You will then slot in the "STLs/J1 -onion rings- spinning gear.stl" such that the 1cm gears are inside it. After this, you will screw in the 3x "STLs/j1 -bun flags (3)- lockes gears in place.stl" into "STLs/j1 -onions- pause print at ~12 mm .stl" in order to keep the moving onion ring in place.
+
