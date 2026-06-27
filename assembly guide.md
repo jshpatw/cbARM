@@ -134,7 +134,7 @@ This is what j3 looks like all together (highlight on 1. STLs/J2-3 Elbow pulley 
 ## P.S. Keep a ruler or measuring device hand;
 If a hole has a diamter of 6mm then a smaller circle, this means the hole is for m3 bolts
 if the diameter is a bit smaller at about 4.5mm this is for the heat set inserts
-diameter of 30mm / 42mmm means "put the 6806 bearing here" 
-diameter of 4mm / 5mm means "put the MR105ZZ bearing here". 
+diameter of 30mm / 42mm means "put the 6806 bearing here" 
+diameter of 10mm / 5mm means "put the MR105ZZ bearing here". 
 
 
