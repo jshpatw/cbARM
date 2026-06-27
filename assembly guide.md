@@ -89,4 +89,8 @@ J1 lies on top of the "STLs/j0 -the disposable plate- thrust bearing upper porti
 
 You will have to pause "STLs/j1 -onions- pause print at ~12 mm .stl" at ~12mm and slot in the 1cm thick gears with thier bearings and then continue the print. You will then slot in the "STLs/J1 -onion rings- spinning gear.stl" such that the 1cm gears are inside it. After this, you will screw in the 3x "STLs/j1 -bun flags (3)- lockes gears in place.stl" into "STLs/j1 -onions- pause print at ~12 mm .stl" in order to keep the moving onion ring in place.
 
+
+### J2 supports
+Use the 6806 bearings, slot it into the 30 mm groves on  "STLs/j0 -the disposable plate- thrust bearing upper portion & j1 base.stl" and slot "STLs/J1-2 supports.stl" right into it and connect it to "STLs/J1 -onion rings- spinning gear.stl" via screws or just glue/pressfitting
+
 ## J2 parts
