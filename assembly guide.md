@@ -91,6 +91,19 @@ You will have to pause "STLs/j1 -onions- pause print at ~12 mm .stl" at ~12mm an
 
 
 ### J2 supports
-Use the 6806 bearings, slot it into the 30 mm groves on  "STLs/j0 -the disposable plate- thrust bearing upper portion & j1 base.stl" and slot "STLs/J1-2 supports.stl" right into it and connect it to "STLs/J1 -onion rings- spinning gear.stl" via screws or just glue/pressfitting
+Use the 6806 bearings, slot it into the 30 mm groves on  "STLs/j0 -the disposable plate- thrust bearing upper portion & j1 base.stl" and slot "STLs/J1-2 supports.stl" right into it and connect it to "STLs/J1 -onion rings- spinning gear.stl" via screws or just glue/pressfitting. Use atleast one side of this and use the second if arm will be used for more heavy torque.
 
 ## J2 parts
+
+J2 is prettymuch slotted on top "STLs/J1 -onion rings- spinning gear.stl". On its platform it is also stacked like hamburger:
+
+1. STLs/J2 nema 17 mount.stl
+2. STLs/J2 gearbox 1.stl
+3. STLs/Jn 1ststage sungear.stl
+4. 3x STLs/Jn planetgear.stl
+5. STLs/Jn converter.stl
+6. STLs/J2 gearbox 2.stl
+7. STLs/Jn  2ndstage sungear.stl
+8. 3x STLs/Jn planetgear.stl
+9. STLs/J2 Converter.stl
+10. STLs/J2 gearbox 3.stl
