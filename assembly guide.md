@@ -93,6 +93,8 @@ You will have to pause "STLs/j1 -onions- pause print at ~12 mm .stl" at ~12mm an
 ### J2 supports
 Use the 6806 bearings, slot it into the 30 mm groves on  "STLs/j0 -the disposable plate- thrust bearing upper portion & j1 base.stl" and slot "STLs/J1-2 supports.stl" right into it and connect it to "STLs/J1 -onion rings- spinning gear.stl" via screws or just glue/pressfitting. Use atleast one side of this and use the second if arm will be used for more heavy torque.
 
+<img width="922" height="418" alt="image" src="https://github.com/user-attachments/assets/3751cc31-ffa6-44c2-a7dc-0e8cb0cb203c" />
+
 ## J2 parts
 
 J2 is prettymuch slotted on top "STLs/J1 -onion rings- spinning gear.stl". On its platform it is also stacked like hamburger:
@@ -108,6 +110,11 @@ J2 is prettymuch slotted on top "STLs/J1 -onion rings- spinning gear.stl". On it
 9. STLs/J2 Converter.stl
 10. STLs/J2 gearbox 3.stl
 
+Some pics of j2:
+<img width="637" height="509" alt="image" src="https://github.com/user-attachments/assets/1ede8ec3-2e0b-4707-b1d6-10ff9b35818e" /><img width="700" height="515" alt="image" src="https://github.com/user-attachments/assets/d427b66a-0cf1-44f1-89dc-a87ca3301bef" />
+
+
+
 ## J3 parts
 J3 is connected to the main body via 2020 extrution to "STLs/J3 2020 6806 mount.stl". "STLs/J2-3 Elbow pulley & nema 17 mount.stl" Connects to this via  press fit and the 6806 bearings. After that its hamburger stacking again:
 
@@ -120,3 +127,14 @@ J3 is connected to the main body via 2020 extrution to "STLs/J3 2020 6806 mount.
 7. 3x STLs/Jn planetgear.stl
 8. STLs/J3 2020 converter .stl
 9. STLs/J3 Gearbox 1.stl
+
+This is what j3 looks like all together (highlight on 1. STLs/J2-3 Elbow pulley & nema 17 mount.stl)
+<img width="1325" height="804" alt="image" src="https://github.com/user-attachments/assets/9a2949ba-a4d9-4f51-9088-650aea3c8427" />
+
+## P.S. Keep a ruler or measuring device hand;
+If a hole has a diamter of 6mm then a smaller circle, this means the hole is for m3 bolts
+if the diameter is a bit smaller at about 4.5mm this is for the heat set inserts
+diameter of 30mm / 42mmm means "put the 6806 bearing here" 
+diameter of 4mm / 5mm means "put the MR105ZZ bearing here". 
+
+
