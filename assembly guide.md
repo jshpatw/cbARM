@@ -107,3 +107,16 @@ J2 is prettymuch slotted on top "STLs/J1 -onion rings- spinning gear.stl". On it
 8. 3x STLs/Jn planetgear.stl
 9. STLs/J2 Converter.stl
 10. STLs/J2 gearbox 3.stl
+
+## J3 parts
+J3 is connected to the main body via 2020 extrution to "STLs/J3 2020 6806 mount.stl". "STLs/J2-3 Elbow pulley & nema 17 mount.stl" Connects to this via  press fit and the 6806 bearings. After that its hamburger stacking again:
+
+1. STLs/J2-3 Elbow pulley & nema 17 mount.stl
+2. STLs/J3 Gearbox 1.stl
+3. STLs/Jn 1ststage sungear.stl
+4. 3x STLs/Jn planetgear.stl 
+5. STLs/J3 Gearbox 2.stl
+6.  STLs/Jn  2ndstage sungear.stl
+7. 3x STLs/Jn planetgear.stl
+8. STLs/J3 2020 converter .stl
+9. STLs/J3 Gearbox 1.stl
