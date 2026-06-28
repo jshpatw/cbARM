@@ -66,6 +66,12 @@ DISCLAIMER: the code is still physically untested so joints may move not as inte
 * Development of end-effector/gripper attachments.
 * Optimization of planetary gearbox backlash and tolerances.
 
+## Extra info
+* The CAD softwares used to make the prodject are KiCad and Fusion360 on education license
+* Im using a p2s for prototyping and printing parts
+* I also used pla to test initial fitments and tolerances
+* I used old arduino code as reference and made the scripts on vs code and double checked with chatgpt
+  
 ## Feedback
 
 Im currently doing everything solo so im open for advice and would appreciate feedback regarding anything in the prodject. 
