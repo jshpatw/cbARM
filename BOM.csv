@@ -1,17 +1,16 @@
-"Category","Reference/Item","Qty","Value/Spec","Manufacturer/Notes","price"
-"Electronics","A1-A7","7","Pololu_A4988","Motor Drivers",""
-"Electronics","C1-C7","7","100uF_35V","Electrolytic Capacitor",""
-"Electronics","J2,J4-J9","7","Conn_01x04","Header Pins",""
-"Electronics","J3","1","Conn_01x03","Header Pins",""
-"Electronics","J10","1","Mini360_Module","Buck Converter",""
-"Electronics","microcontroller","1","esp32 WROOM D","System brain",""
-"Electronics","J11","1","2_Pin_Term_Block","5.00mm Pitch",""
-"Electronics","J12,J13","2","Conn_01x19","Pin Socket",""
-"Electronics","U1,U2","2","74HC595","Shift Register",""
-"Electronics","Power Supply","1","24V 15A","Main System PSU",""
-"Mechanical","Stepper Motors","7","NEMA 17 (42HS60)","1.8 Degree Step",""
-"Mechanical","Bearings","100","MR105ZZ (10x5x4mm)","Steel Shielded",""
-"Mechanical","Bearings","100","6806 (42x30x7mm)","Steel Shielded",""
-"Mechanical","Screws","100","M3 x 10mm","Socket Head Cap",""
-"Mechanical","Heat-Set Inserts","100","M3 Brass Insert","For PETG",""
-"Mechanical","Filament","3kg","PETG 1.75mm","Chassis Material",""
+Category,Reference,Qty,Item Name (Brand/Spec),Notes,Unit Price (PHP),Unit Price (USD),Total (PHP),Total (USD)
+Electronics,A1-A7,7,Pololu A4988,Stepper Motor Driver,100,1.80,700,12.60
+Electronics,C1-C7,7,100uF 35V Capacitor,Electrolytic (Low ESR),50,0.90,350,6.30
+Electronics,J2-J13,1,Female Connector Kit,2.54mm pitch DuPont/Jumper,300,5.40,300,5.40
+Electronics,J10,1,Mini360 Buck Converter,Step-down (24V to 5V),250,4.50,250,4.50
+Electronics,-,1,ESP32 WROOM-32D,3.3V Logic MCU,350,6.30,350,6.30
+Electronics,J11,1,2-Pin Terminal Block,"5.00mm Pitch, 10A rated",20,0.36,20,0.36
+Electronics,"U1, U2",2,74HC595,8-bit Shift Register,40,0.72,80,1.44
+Electronics,PSU,1,Mean Well 24V 15A,LRS-350-24 Switching PSU,"1,200",21.60,"1,200",21.60
+Mechanical,-,7,NEMA 17 (42HS60),"1.8° step, 1.5A-2A rated",600,10.80,"4,200",75.60
+Mechanical,-,60,MR105ZZ Bearings,10x5x4mm Steel Shielded,25,0.45,"1,500",27.00
+Mechanical,-,10,6806 Bearings,42x30x7mm Steel Shielded,80,1.44,800,14.40
+Mechanical,-,100,M3 x 10mm Screws,Socket Head Cap (Grade 12.9),2,0.04,200,3.60
+Mechanical,-,100,M3 Brass Inserts,For PETG/Heat-set,5,0.09,500,9.00
+Mechanical,-,3kg,PETG 1.75mm Filament,High-Strength Chassis,800,14.40,"2,400",43.20
+TOTAL,,,,,,,"12,850 PHP",231.30 USD
