@@ -1,4 +1,4 @@
-"Category","Reference/Item","Qty","Value/Spec","Manufacturer/Notes""price"
+"Category","Reference/Item","Qty","Value/Spec","Manufacturer/Notes","price"
 "Electronics","A1-A7","7","Pololu_A4988","Motor Drivers"
 "Electronics","C1-C7","7","100uF_35V","Electrolytic Capacitor"
 "Electronics","J2,J4-J9","7","Conn_01x04","Header Pins"
