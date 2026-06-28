@@ -15,33 +15,8 @@ The cbARM project aims to recreate industry-standard robot arm functionality usi
 * Modular electronics; using female sockets soldered onto the pcb for "hot swapping" and easy electronics replacement.
 * Scalable architecture for easy repair and upgrades.
 
-## Bill of Materials (BOM)
-
-### Electronics
-
-| Category | Reference/Item | Qty | Value/Spec | Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| Electronics | A1-A7 | 7 | Pololu_A4988 | Motor Drivers |
-| Electronics | C1-C7 | 7 | 100uF_35V | Electrolytic Capacitor |
-| Electronics | J2,J4-J9 | 7 | Conn_01x04 | Header Pins |
-| Electronics | J3 | 1 | Conn_01x03 | Header Pins |
-| Electronics | J10 | 1 | Mini360_Module | Buck Converter |
-| Electronics | J11 | 1 | 2_Pin_Term_Block | 5.00mm Pitch |
-| Electronics | J12,J13 | 2 | Conn_01x19 | Pin Socket |
-| Electronics | U1,U2 | 2 | 74HC595 | Shift Register |
-| Electronics | Power Supply | 1 | 24V 15A | Main System PSU |
-| Electronics | esp32 WROOM D | 1 | 24V 15A | System Brain |
-
-### Mechanical
-
-| Category | Item | Qty | Value/Spec | Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| Mechanical | Stepper Motors | 7 | NEMA 17 (42HS60) | 1.8 Degree Step |
-| Mechanical | Bearings | 100 | MR105ZZ (10x5x4mm) | Steel Shielded |
-| Mechanical | Screws | 100 | M3 x 10mm | Socket Head Cap |
-| Mechanical | Heat-Set Inserts | 100 | M3 Brass Insert | For PETG |
-| Mechanical | Filament | 3kg | PETG 1.75mm | Chassis & Gear Material |
-
+[## Bill of Materials (BOM)
+]([url](https://github.com/jshpatw/cbARM/blob/main/BOM.csv))
 ## Assembly and CAD Files
 
 All STL files required for 3D printing the chassis and planetary gearboxes are available in the `/stl` directory of this repository. Refer to the pictures in journal.md portion for more complex parts and to see how I went about making things
