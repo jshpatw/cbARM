@@ -4,6 +4,10 @@ A 5-DOF (Degrees of Freedom) robot arm designed for high scalability, low cost, 
 
 <img width="1410" height="2000" alt="Copy of Chese burger(2)" src="https://github.com/user-attachments/assets/c6d1eb20-81c2-4bbf-bdad-3a506b6f2ca7" />
 
+## Why did i make this?
+
+I always wanted an interactable robotic arm. But, online, the cheap ones cant lift any substancial weight and the good ones are very unaffordable. Most arms also came in fixed sizes and usally had a short range of motion. By making this prodject, I hope to adress theese 3 problems.
+
 ## Project Overview
 
 The cbARM project aims to recreate industry-standard robot arm functionality using affordable, accessible components. By utilizing NEMA 17 motors, 3D-printed planetary gearboxes, a fully 3d printed conical stylle thrust bearing, and 2020 aluminum extrusions, this project provides a modular, affordable, and highly repairable alternative to commercial robotic systems.
