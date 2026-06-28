@@ -72,7 +72,11 @@ DISCLAIMER: the code is still physically untested so joints may move not as inte
 * Im using a p2s for prototyping and printing parts
 * I also used pla to test initial fitments and tolerances
 * I used old arduino code as reference and made the scripts on vs code and double checked with chatgpt
-  
+### Links & sources:
+* https://thangs.com/designer/logicalplanet/3d-model/Lazy%20Susan%20160%20v3.0-1514462
+* https://www.youtube.com/watch?v=S1EmJKU_IJU
+* https://makerworld.com/en/models/2686085-planetary-gearbox-nema-17-1-16
+
 ## Feedback
 
 Im currently doing everything solo so im open for advice and would appreciate feedback regarding anything in the prodject. 
