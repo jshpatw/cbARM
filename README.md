@@ -1,7 +1,8 @@
 # cbARM (Cheese Burger ARM)
 
 A 5-DOF (Degrees of Freedom) robot arm designed for high scalability, low cost, and ease of assembly using common makerspace materials.
-<img width="1410" height="2000" alt="Copy of Chese burger" src="https://github.com/user-attachments/assets/33f03655-ff43-405c-8269-c5f94c9593b3" />
+
+<img width="1410" height="2000" alt="Copy of Chese burger(2)" src="https://github.com/user-attachments/assets/c6d1eb20-81c2-4bbf-bdad-3a506b6f2ca7" />
 
 ## Project Overview
 
