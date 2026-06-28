@@ -15,8 +15,9 @@ The cbARM project aims to recreate industry-standard robot arm functionality usi
 * Modular electronics; using female sockets soldered onto the pcb for "hot swapping" and easy electronics replacement.
 * Scalable architecture for easy repair and upgrades.
 
-[## Bill of Materials (BOM)
-]([url](https://github.com/jshpatw/cbARM/blob/main/BOM.csv))
+## [Bill of Materials (BOM)]([url](https://github.com/jshpatw/cbARM/blob/main/BOM.csv))
+u can find the bom in the repo via BOM.csv 
+
 ## Assembly and CAD Files
 
 All STL files required for 3D printing the chassis and planetary gearboxes are available in the `/stl` directory of this repository. Refer to the pictures in journal.md portion for more complex parts and to see how I went about making things
@@ -49,13 +50,15 @@ He also has a youtube video in that link, I recommend watching his videos to bet
 <img width="841" height="731" alt="image" src="https://github.com/user-attachments/assets/36f05a64-b429-4f4d-b044-ae5e1f970e56" />
 Above shows how the arm should look like after the 3d printed parts are assembled. (note that wires and electronics arent shown in this picture.
 
+I made a document specially for assembly instructions at assembly guide.md in the repo for more in depth instructions and for the rest of the parts.
 
 ## Firmware and Control
  
 * Status: Development in progress. 
 * Firmware: To be updated.
 * Control Interface: To be updated.
-* Communication Protocols: To be updated.
+
+DISCLAIMER: the code is still physically untested so joints may move not as intended
 
 ## Future Roadmap
 
